@@ -47,5 +47,5 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
   
 <div>
   
-<a href="abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
+<a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
 
