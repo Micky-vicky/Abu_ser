@@ -38,10 +38,10 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
   <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/URkrOnx.png" alt="kyrie.baran" height="200" width="300" /></a>
 </p> 
 
-<a href="https://github.com/Ajx-Abu/Abu_ser"><img align="center" src="/language/repo.png" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://github.com/Ajx-Abu/Abu_ser"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
 <div>
-<a href="https://replit.com/@souravkl11/Raganork-QR"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://replit.com/@ABUOP1/ABU-BOT-QR?v=1"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 
 <a href="https://heroku.com/deploy?template=https://github.com/Ajx-Abu/Abu_ser"><img align="center" src="https://i.imgur.com/eb2xb9u.png" alt="Fork and deploy" height="112" width="300" /></a>
