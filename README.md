@@ -29,15 +29,6 @@
     <br> 
 </p>
 
-##
-  <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
-<p align="center">
-CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
-    <br>
-<br>
-  <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/URkrOnx.png" alt="kyrie.baran" height="200" width="300" /></a>
-</p> 
-
 <a href="https://github.com/Ajx-Abu/Abu_ser"><img align="center" src="https://i.imgur.com/vUIRd80.png" alt="Fork and deploy" height="112" width="300" /></a>
 <br>
 <div>
@@ -49,3 +40,11 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
 <div>
 <a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
 
+##
+  <h3 align="center">📢 JOIN OUR SUPPORT GROUP:</h3>
+<p align="center">
+CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
+    <br>
+<br>
+  <a href="https://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk" target="blank"><img align="center" src="https://i.imgur.com/URkrOnx.png" alt="kyrie.baran" height="200" width="300" /></a>
+</p> 
