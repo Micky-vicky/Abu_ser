@@ -43,9 +43,15 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/ABU-BOT-QR?v=1)
+<div align="center">
   
+<a href="https://replit.com/@souravkl11/Raganork-QR"><img align="center" src="/language/replit-scan.png" alt="Scan QR" height="112" width="300" /></a>
+<br>
 <div>
-  
+<br>
+
+<a href="https://github.com/bot-repo/deployer-one"><img align="center" src="/language/repo.png" alt="Fork and deploy" height="112" width="300" /></a>
+   <br>
+<div>
 <a href="https://abuser1.yolasite.com/"><img src="/language/web.png" alt="Visit Website" height="112" width="300" border="0"></a>
 
