@@ -18,7 +18,7 @@
 <img src="https://www.linkpicture.com/q/rafi.png?cid=790b7611a48d56eec88e20cfedb2c8be6e08c0fde3f8fe72&rid=giphy.gif&ct=g.gif" alt="GIF" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/Ajx-Abu"><img title="Author" src="https://img.shields.io/badge/Author-Abu Ser-cyberchekuthan/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="#"><img title="AbuSer" src="https://img.shields.io/badge/JASIL-ABU_SER-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 </div>
 <p align="center">
