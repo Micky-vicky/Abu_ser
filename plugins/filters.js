@@ -122,17 +122,17 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
     if (!!message.mention && message.mention[0] == '917025994178@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Abuser/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+await message.client.sendMessage(message.jid, fs.readFileSync('./Jasil/mention.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
  if (!!message.mention && message.mention[0] == '917994909899@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./Abuser/ameenmention.webp'), MessageType.sticker, { mimetype: Mimetype.webp,quoted : message.data, ptt: false})
+await message.client.sendMessage(message.jid, fs.readFileSync('./Jasil/ameenmention.webp'), MessageType.sticker, { mimetype: Mimetype.webp,quoted : message.data, ptt: false})
      }
        
 const array = ['Error','error','Mm','umma','Umma','Oi','Ezra','ezra','Hi','nihal','Nihal','Sufaid','sufaid','Khais','khais','achu','Achu','Ok','ok','Sorry','sorry','nna','Nna','name','Name','myre','Myre','inna','Inna','Malare','git','Ameen','chaya','escape','truth','hm','pottan','oh','nokk','nude','oo','hi','kali','Remove','bot','lost','copy','Da','come','sex','help','sorry','podi','nee','done','kalam','Di','Dey','oho','Welcome','Nanba','ee','Hello','para','kindi','list','check','podey','odiko','save','Hii','oii','sad','sed','thenga','bad','run','remove','love','kick','enth','alive','amal','menu','ella','unmute','mute','Ayye','pm','Hhee','Patti','Chumma paranjatha','Myr','rply','selfie','ban','Sad','fuk','Engenend','Pattula','sticker','da','kittiyo','Comedy','resendo','Poda','mrng','Bot','Rafi','rafi','Da','']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
-   await message.client.sendMessage(message.jid, fs.readFileSync('./Abuser/' + a + '.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted: message.data, ptt: false})
+   await message.client.sendMessage(message.jid, fs.readFileSync('./Jasil/' + a + '.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted: message.data, ptt: false})
 }
 });
 }
