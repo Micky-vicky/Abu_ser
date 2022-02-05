@@ -45,7 +45,7 @@ CLICK THIS LOGO TO JOIN OUR SUPPORT GROUP🎗️
   
 <div align="center">
   
-<a href="https://replit.com/@souravkl11/Raganork-QR"><img align="center" src="/language/replit-scan.png" alt="Scan QR" height="112" width="300" /></a>
+<a href="https://replit.com/@souravkl11/Raganork-QR"><img align="center" src="https://i.imgur.com/SYoMXG2.png" alt="Scan QR" height="112" width="300" /></a>
 <br>
 <div>
 <br>
